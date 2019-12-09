@@ -1,5 +1,5 @@
 # tetris-clone
-yet another tetris clone, made it as a learning experence, and as a personal challange.
+yet another tetris clone, made as a learning experence, and as a personal challange.
 ```
 created by oran c
 20190428
@@ -12,4 +12,4 @@ playable version of the game:
 
 -----
 ### Game Play 
-![](https://i.imgur.com/PZsiX6M.png)
+![](https://i.imgur.com/MrpXAnA.png)
