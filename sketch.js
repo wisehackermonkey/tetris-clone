@@ -171,6 +171,7 @@ function update() {
         text("Reload Page to play again",10,height/2);
     }
 
+    popup("Left/Right arrow move\nUp/down arrows rotate",3)
 }
 
 let move_down_interval;
